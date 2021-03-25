@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "epangar",
 	"description": "A freeCodeCamp node test",
+	"license": "MIT",
 	"keywords": [ "freecodecamp", "node", "npm", "package.json" ],
 	"dependencies": {
 		"express": "^4.14.0"
