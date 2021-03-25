@@ -3,6 +3,7 @@
 	"author": "epangar",
 	"description": "A freeCodeCamp node test",
 	"license": "MIT",
+	"version": "1.0.0",
 	"keywords": [ "freecodecamp", "node", "npm", "package.json" ],
 	"dependencies": {
 		"express": "^4.14.0"
